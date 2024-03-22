@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CakeShop/static/css/main.b0abb489.css",
+    "main.js": "/CakeShop/static/js/main.2670ec07.js",
+    "static/js/787.46493d11.chunk.js": "/CakeShop/static/js/787.46493d11.chunk.js",
+    "static/media/3.png": "/CakeShop/static/media/3.a58579845b0985719f58.png",
+    "static/media/14.png": "/CakeShop/static/media/14.7d54f1f7dd0dc5022cbc.png",
+    "static/media/2.png": "/CakeShop/static/media/2.af9a4ee35e81efb14017.png",
+    "static/media/1.png": "/CakeShop/static/media/1.f2ede0ab040d7391c0b0.png",
+    "static/media/13.png": "/CakeShop/static/media/13.2b5e5835aa76b34a4617.png",
+    "static/media/7.png": "/CakeShop/static/media/7.feb656258f87b05f4b17.png",
+    "static/media/10.png": "/CakeShop/static/media/10.4406d294cd702bc96538.png",
+    "static/media/9.png": "/CakeShop/static/media/9.4b5a69b0eb7f89a73b29.png",
+    "static/media/logo.jpg": "/CakeShop/static/media/logo.14aa5849cfd227c57d9f.jpg",
+    "index.html": "/CakeShop/index.html",
+    "main.b0abb489.css.map": "/CakeShop/static/css/main.b0abb489.css.map",
+    "main.2670ec07.js.map": "/CakeShop/static/js/main.2670ec07.js.map",
+    "787.46493d11.chunk.js.map": "/CakeShop/static/js/787.46493d11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0abb489.css",
+    "static/js/main.2670ec07.js"
+  ]
+}
